@@ -1,0 +1,6 @@
+numpy
+matplotlib
+ipympl
+pillow
+ipywidgets
+notebook
